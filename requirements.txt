@@ -1,4 +1,4 @@
-random>=1.0.1
-requests>=2.25.1
-user_agent>=0.1.9
-colorama>=0.4.4
+random==1.0.1
+requests==2.25.1
+user_agent==0.1.9
+colorama==0.4.4
